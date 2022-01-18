@@ -1,3 +1,7 @@
 *
 
 !.gitignore
+!database/
+!database/*.py
+!main.py
+!test.db
